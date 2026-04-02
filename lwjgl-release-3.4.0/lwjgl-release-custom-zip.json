@@ -5,11 +5,9 @@
     "joml"
   ],
   "platform": [
-    "macos",
+    "linux",
     "macos-arm64",
-    "windows",
-    "windows-x86",
-    "windows-arm64"
+    "windows"
   ],
   "descriptions": false,
   "compact": false,
@@ -24,8 +22,10 @@
     "lwjgl-assimp",
     "lwjgl-glfw",
     "lwjgl-opengl",
-    "lwjgl-stb"
+    "lwjgl-stb",
+    "lwjgl-yoga",
+    "lwjgl-zstd"
   ],
   "version": "3.4.0",
-  "versionLatest": "3.4.0"
+  "versionLatest": "3.4.1"
 }
