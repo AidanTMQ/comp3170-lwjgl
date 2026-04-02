@@ -22,9 +22,7 @@
     "lwjgl-assimp",
     "lwjgl-glfw",
     "lwjgl-opengl",
-    "lwjgl-stb",
-    "lwjgl-yoga",
-    "lwjgl-zstd"
+    "lwjgl-stb"
   ],
   "version": "3.4.0",
   "versionLatest": "3.4.1"
